@@ -3,9 +3,12 @@ This repository is a place where I want to keep all the useful *resources/websit
 
 This repo is for me but also for my CTF team, and why not for whoever will get to this page.
 
+## Tools
 - [Cyberchef](https://gchq.github.io/CyberChef/): huge tool to perform **every type of calculation of any category**
 
-## Cryptography
-## Steganography
-## Web
-## Miscellaneous
+### Cryptography
+### Steganography
+### Web
+### Miscellaneous
+
+## Resources / Articles
