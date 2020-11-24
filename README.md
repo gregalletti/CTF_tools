@@ -29,6 +29,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Steganography
 #### Tools
+- [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve): JAR file to view **hidden text in images**
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
 - [Steg 2](https://futureboy.us/stegano/decinput.html): online **encoder/decoder of files in images**, maybe more powerful
 
@@ -41,11 +42,14 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Subdomain Finder](https://subdomainfinder.c99.nl/index.php): website to **find subdomains of URLs**, even hidden ones
 #### Resources
 - [CSP Cheatsheet](https://six2dez.gitbook.io/pentest-book/enumeration/web/csp): list of **CSPs and relative bypass** possibilities
-- [JSONP Endpoints](https://github.com/swisskyrepo/PayloadsAllTheThings): list of **well-known JSONP Endpoints**
+- [JSONP Endpoints](https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt): list of **well-known JSONP Endpoints**
+- [Web Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings): list of **Web Payloads** of various techniques
 
 ## Pwn
 ### Tools
+- [Syscall Reference](https://syscalls.w3challs.com/): **x86 / x64 syscalls manual** with registers value
 - [Asm/Disasm](https://defuse.ca/online-x86-assembler.htm#disassembly): online **x86 / x64 assembler and disassembler**
+- [LibC Check](https://libc.blukat.me/?q=puts%3A0x7f51bf2ee9c0&l=libc6_2.27-3ubuntu1_amd64): find all the **possible libc versions** with symbol name and entry address
 ### Resources
 
 ## Miscellaneous
