@@ -16,6 +16,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 ## Cryptography
 #### Tools
 - [Big Numbers Calculator 1](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm): an online **calculator for huge integers**
+- [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm): an online **calculator for huge integers**, worse UI but maybe better performance
 - [RSA Calculator](https://www.cryptool.org/en/cto/highlights/rsa-step-by-step): online **RSA parameters calculator with encryption/decryption**, works also with big numbers 
 - [Inverse mod N Calculator](https://www.dcode.fr/modular-inverse): compute the **modular inverse of a number**, even with big numbers (shitty UI)
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool): python tool to perform **RSA attacks**
@@ -41,6 +42,11 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Resources
 - [CSP Cheatsheet](https://six2dez.gitbook.io/pentest-book/enumeration/web/csp): list of **CSPs and relative bypass** possibilities
 - [JSONP Endpoints](https://github.com/swisskyrepo/PayloadsAllTheThings): list of **well-known JSONP Endpoints**
+
+## Pwn
+### Tools
+- [Asm/Disasm](https://defuse.ca/online-x86-assembler.htm#disassembly): online **x86 / x64 assembler and disassembler**
+### Resources
 
 ## Miscellaneous
 
