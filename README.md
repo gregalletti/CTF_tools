@@ -9,7 +9,10 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Tools
 - [Cyberchef](https://gchq.github.io/CyberChef/): huge tool to perform **every type of calculation of any category**
 - [XOR Calculator](http://xor.pw/)
+- [Resource Saver](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US): Chrome extension to **download all the res of a website**
+- [Regex Check](https://www.debuggex.com/): check **regular expressions** online
 - [Morse Code Translator](https://morsecode.world/international/translator.html)
+- [Dual Tone Decoder](http://dialabc.com/sound/detect/): find **DTMF tones** within audio clips
 #### Resources
 - [ASCII Table](http://www.asciitable.com/)
 
@@ -19,12 +22,14 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm): an online **calculator for huge integers**, worse UI but maybe better performance
 - [RSA Calculator](https://www.cryptool.org/en/cto/highlights/rsa-step-by-step): online **RSA parameters calculator with encryption/decryption**, works also with big numbers 
 - [Inverse mod N Calculator](https://www.dcode.fr/modular-inverse): compute the **modular inverse of a number**, even with big numbers (shitty UI)
-- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool): python tool to perform **RSA attacks**
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool): Python tool to perform **RSA attacks**
+- [FactorDB](http://factordb.com/): find **well-known integer factorization**
 - [CrackStation](https://crackstation.net/): online **hash cracker** (md5, sha, ...)
 - [Vigenere Solver](https://www.guballa.de/vigenere-solver): very good online **Vigenere Cipher solver** with bruteforce
 - [Substitution Solver](https://www.guballa.de/substitution-solver): very good online **Substitution Cipher solver** with bruteforce
 
 #### Resources
+- [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
 - [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm): a list of some **strange cryptography algorithms**
 
 ## Steganography
@@ -53,4 +58,4 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 ### Resources
 
 ## Miscellaneous
-
+- [Wayback Machine](https://archive.org/web/): OSINT tool, **webpage archive at a certain time**
