@@ -59,5 +59,11 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [LibC Check](https://libc.blukat.me/?q=puts%3A0x7f51bf2ee9c0&l=libc6_2.27-3ubuntu1_amd64): find all the **possible libc versions** with symbol name and entry address
 ### Resources
 
+## Forensics
+### Tools
+- [Autopsy](https://www.sleuthkit.org/autopsy/): **file recovery tool** with data carving, ..
+- [Foremost](https://tools.kali.org/forensics/foremost): **file recovery tool** based on their magic bytes, headers, ..
+
+### Resources
 ## Miscellaneous
 - [Wayback Machine](https://archive.org/web/): OSINT tool, **webpage archive at a certain time**
