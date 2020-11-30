@@ -30,6 +30,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Vigenere Solver](https://www.guballa.de/vigenere-solver): very good online **Vigenere Cipher solver** with bruteforce
 - [Substitution Solver](https://www.guballa.de/substitution-solver): very good online **Substitution Cipher solver** with bruteforce
 - [Sage Math](https://sagecell.sagemath.org/): online Sage environment to **perform Crypto calculations**
+- [Crunch](https://tools.kali.org/password-attacks/crunch): Linux tool to **create custom dictionaries** for attacks (hash, pd, ..)
 
 #### Resources
 - [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
