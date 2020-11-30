@@ -7,6 +7,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## General
 #### Tools
+- [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana): **huge repo of very useful CTF tools**, thank you John, my repo now looks useless 
 - [Cyberchef](https://gchq.github.io/CyberChef/): huge tool to perform **every type of calculation of any category**
 - [Hex Editor](https://hexed.it/): online **hex editor** for files
 - [Online Converter](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html): **ASCII/Hex/Dec/Bin/b64 converter** tool online
