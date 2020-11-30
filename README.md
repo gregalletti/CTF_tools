@@ -29,6 +29,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [CrackStation](https://crackstation.net/): online **hash cracker** (md5, sha, ...)
 - [Vigenere Solver](https://www.guballa.de/vigenere-solver): very good online **Vigenere Cipher solver** with bruteforce
 - [Substitution Solver](https://www.guballa.de/substitution-solver): very good online **Substitution Cipher solver** with bruteforce
+- [Sage Math](https://sagecell.sagemath.org/): online Sage environment to **perform Crypto calculations**
 
 #### Resources
 - [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
@@ -66,6 +67,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ### Resources
 ## Miscellaneous
+- [Mail from LinkedIn](https://skrapp.io/tutorials/linkedin-email-finder): Chrome extension to **find email addresses from Linkedin page**
 - [Wayback Machine](https://archive.org/web/): OSINT tool, **webpage archive at a certain time**
 
 ## Reversing
