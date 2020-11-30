@@ -31,7 +31,8 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Substitution Solver](https://www.guballa.de/substitution-solver): very good online **Substitution Cipher solver** with bruteforce
 - [Sage Math](https://sagecell.sagemath.org/): online Sage environment to **perform Crypto calculations**
 - [Crunch](https://tools.kali.org/password-attacks/crunch): Linux tool to **create custom dictionaries** for attacks (hash, pd, ..)
-
+- [Online Hash Crack](https://www.onlinehashcrack.com/): big website to **perform hash/pwd cracking and identification** on various files
+- [Hash Identifier](https://tools.kali.org/password-attacks/hash-identifier): Linux tool to **perform hash identification**
 #### Resources
 - [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
 - [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm): a list of some **strange cryptography algorithms**
