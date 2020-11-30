@@ -40,7 +40,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve): JAR file to view **hidden text in images**
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
 - [Steg 2](https://futureboy.us/stegano/decinput.html): online **encoder/decoder of files in images**, maybe more powerful
-
+- [Images Color picker](https://imagecolorpicker.com/): get **colors from websites/images in Hex/RGB**
 #### Resources
 - [Steghide Manual](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
 
