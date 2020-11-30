@@ -67,3 +67,9 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 ### Resources
 ## Miscellaneous
 - [Wayback Machine](https://archive.org/web/): OSINT tool, **webpage archive at a certain time**
+
+## Reversing
+### Tools
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF): tool to **decompile and reverse APK** files
+### Resources
+- NB: strings is useful also on APK files
