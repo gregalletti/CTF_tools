@@ -40,6 +40,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Steganography
 #### Tools
+- [StegOnline](https://stegonline.georgeom.net): big stego tool, upload image and **modify/extract data**
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve): JAR file to view **hidden text in images**
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
 - [Steg 2](https://futureboy.us/stegano/decinput.html): online **encoder/decoder of files in images**, maybe more powerful
