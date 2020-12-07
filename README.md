@@ -5,6 +5,13 @@ This repo is for me but also for my CTF team, and why not for whoever will get t
 
 It will contain even some "obvious" links, like the ASCII table and so on, because it is a page indended to be kept open during CTFs: you never know what will come in handy!
 
+## Training
+> A list of useful websites to train our skills and knowledge.
+- [picoCTF](https://picoctf.org/)
+- [capturetheflag](https://capturetheflag.it/risorse/come-imparo)
+- [overthewire](https://overthewire.org/wargames/)
+- [pwnable](http://pwnable.kr/)
+
 ## General
 #### Tools
 - [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana): **huge repo of very useful CTF tools**, thank you John, my repo now looks useless 
