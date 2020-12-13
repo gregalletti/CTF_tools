@@ -20,6 +20,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Online Converter](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html): **ASCII/Hex/Dec/Bin/b64 converter** tool online
 - [XOR Calculator](http://xor.pw/)
 - [Resource Saver](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US): Chrome extension to **download all the res of a website**
+- [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/): a realy useful and free **online zip password finder**
 - [Regex Check](https://www.debuggex.com/): check **regular expressions** online
 - [Morse Code Translator](https://morsecode.world/international/translator.html)
 - [Dual Tone Decoder](http://dialabc.com/sound/detect/): find **DTMF tones** within audio clips
