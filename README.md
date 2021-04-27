@@ -74,6 +74,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Forensics
 ### Tools
+- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier): **online forensic analysis tool** to extract cool data from images, .. 
 - [Autopsy](https://www.sleuthkit.org/autopsy/): **file recovery tool** with data carving, ..
 - [Foremost](https://tools.kali.org/forensics/foremost): **file recovery tool** based on their magic bytes, headers, ..
 
