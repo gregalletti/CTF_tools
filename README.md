@@ -60,6 +60,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Tools
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): Google **CSP evaluator** with bypass possibilities
 - [Subdomain Finder](https://subdomainfinder.c99.nl/index.php): website to **find subdomains of URLs**, even hidden ones
+- [Traversal Archives](https://github.com/jwilk/traversal-archives): samples of archive files in various formats that attempt to exploit (hypothetical) directory travesal bugs
 #### Resources
 - [CSP Cheatsheet](https://six2dez.gitbook.io/pentest-book/enumeration/web/csp): list of **CSPs and relative bypass** possibilities
 - [JSONP Endpoints](https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt): list of **well-known JSONP Endpoints**
