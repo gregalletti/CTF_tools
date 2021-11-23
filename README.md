@@ -55,8 +55,8 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Steg 2](https://futureboy.us/stegano/decinput.html): online **encoder/decoder of files in images**, maybe more powerful
 - [Images Color picker](https://imagecolorpicker.com/): get **colors from websites/images in Hex/RGB**
 #### Resources
-- [Steghide Manual](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
-
+- [steghide](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
+- [zsteg](): Ruby tool for steganography purposes
 ## Web
 #### Tools
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): Google **CSP evaluator** with bypass possibilities
