@@ -29,6 +29,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Cryptography
 #### Tools
+- [QuipQuip](https://quipqiup.com/): online **substitution cipher solver** with frequency analysis, also allows to insert frequency hints
 - [Big Numbers Calculator 1](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm): an online **calculator for huge integers**
 - [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm): an online **calculator for huge integers**, worse UI but maybe better performance
 - [RSA Calculator](https://www.cryptool.org/en/cto/highlights/rsa-step-by-step): online **RSA parameters calculator with encryption/decryption**, works also with big numbers 
