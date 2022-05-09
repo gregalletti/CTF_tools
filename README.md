@@ -29,11 +29,12 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Cryptography
 #### Tools
+- [dCode](https://www.dcode.fr): **crypto heaven**
 - [QuipQuip](https://quipqiup.com/): online **substitution cipher solver** with frequency analysis, also allows to insert frequency hints
 - [Big Numbers Calculator 1](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm): an online **calculator for huge integers**
 - [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm): an online **calculator for huge integers**, worse UI but maybe better performance
 - [RSA Calculator](https://www.cryptool.org/en/cto/highlights/rsa-step-by-step): online **RSA parameters calculator with encryption/decryption**, works also with big numbers 
-- [Inverse mod N Calculator](https://www.dcode.fr/modular-inverse): compute the **modular inverse of a number**, even with big numbers (shitty UI)
+- [Inverse mod N Calculator](https://www.dcode.fr/modular-inverse): compute the **modular inverse of a number**, even with big numbers
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool): Python tool to perform **RSA attacks**
 - [FactorDB](http://factordb.com/): find **well-known integer factorization**
 - [CrackStation](https://crackstation.net/): online **hash cracker** (md5, sha, ...)
@@ -46,9 +47,11 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Resources
 - [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
 - [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm): a list of some **strange cryptography algorithms**
+- [Symbolic Ciphers](https://www.dcode.fr/symbols-ciphers): another list of **strange cryptography algorithms**
 
 ## Steganography
 #### Tools
+- [Aperi'Solve](https://aperisolve.fr/): **one of the best online tools**, with static analysis and also running zsteg, steghide, outguess, exiftool, binwalk, foremost and strings 
 - [StegOnline](https://stegonline.georgeom.net): big stego tool, upload image and **modify/extract data**
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve): JAR file to view **hidden text in images**
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
@@ -57,6 +60,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Resources
 - [steghide](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
 - [zsteg](): Ruby tool for steganography purposes
+
 ## Web
 #### Tools
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): Google **CSP evaluator** with bypass possibilities
@@ -84,9 +88,9 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 ### Resources
 ## OSINT
 - [Mail from LinkedIn](https://skrapp.io/tutorials/linkedin-email-finder): Chrome extension to **find email addresses from Linkedin page**
-- [Wayback Machine](https://archive.org/web/): **Webpage archive at a certain time**
-- [Sherlock](https://github.com/sherlock-project/sherlock): Hunt down **social media accounts by username**
-- [Email lookup](https://epieos.com/): Tool to **retrieve information linked to an email address**
+- [Wayback Machine](https://archive.org/web/): **webpage archive at a certain time**
+- [Sherlock](https://github.com/sherlock-project/sherlock): hunt down **social media accounts by username**
+- [Email lookup](https://epieos.com/): tool to **retrieve information linked to an email address**
 
 
 ## Reversing
