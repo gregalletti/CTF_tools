@@ -82,9 +82,12 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Foremost](https://tools.kali.org/forensics/foremost): **file recovery tool** based on their magic bytes, headers, ..
 
 ### Resources
-## Miscellaneous
+## OSINT
 - [Mail from LinkedIn](https://skrapp.io/tutorials/linkedin-email-finder): Chrome extension to **find email addresses from Linkedin page**
-- [Wayback Machine](https://archive.org/web/): OSINT tool, **webpage archive at a certain time**
+- [Wayback Machine](https://archive.org/web/): **Webpage archive at a certain time**
+- [Sherlock](https://github.com/sherlock-project/sherlock): Hunt down **social media accounts by username**
+- [Email lookup](https://epieos.com/): Tool to **retrieve information linked to an email address**
+
 
 ## Reversing
 ### Tools
