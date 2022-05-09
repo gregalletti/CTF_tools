@@ -51,7 +51,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 
 ## Steganography
 #### Tools
-- [Aperi'Solve](https://aperisolve.fr/): **one of the best online tools**, with static analysis and also running zsteg, steghide, outguess, exiftool, binwalk, foremost and strings 
+- [Aperi'Solve](https://aperisolve.fr/): **one of the best online tools**, with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost, .. 
 - [StegOnline](https://stegonline.georgeom.net): big stego tool, upload image and **modify/extract data**
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve): JAR file to view **hidden text in images**
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
