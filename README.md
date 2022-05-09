@@ -5,14 +5,14 @@ This repo is for me but also for my CTF team, and why not for whoever will get t
 
 It will contain even some "obvious" links, like the ASCII table and so on, because it is a page indended to be kept open during CTFs: you never know what will come in handy!
 
-## Training
+## Training 🚩
 > A list of useful websites to train our skills and knowledge.
 - [picoCTF](https://picoctf.org/)
 - [capturetheflag](https://capturetheflag.it/risorse/come-imparo)
 - [overthewire](https://overthewire.org/wargames/)
 - [pwnable](http://pwnable.kr/)
 
-## General
+## General 📋
 #### Tools
 - [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana): **huge repo of very useful CTF tools**, thank you John, my repo now looks useless 
 - [Cyberchef](https://gchq.github.io/CyberChef/): huge tool to perform **every type of calculation of any category**
@@ -27,7 +27,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 #### Resources
 - [ASCII Table](http://www.asciitable.com/)
 
-## Cryptography
+## Cryptography 🔒
 #### Tools
 - [dCode](https://www.dcode.fr): **crypto heaven**
 - [QuipQuip](https://quipqiup.com/): online **substitution cipher solver** with frequency analysis, also allows to insert frequency hints
@@ -49,7 +49,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm): a list of some **strange cryptography algorithms**
 - [Symbolic Ciphers](https://www.dcode.fr/symbols-ciphers): another list of **strange cryptography algorithms**
 
-## Steganography
+## Steganography 🎨
 #### Tools
 - [Aperi'Solve](https://aperisolve.fr/): **one of the best online tools**, with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost, .. 
 - [StegOnline](https://stegonline.georgeom.net): big stego tool, upload image and **modify/extract data**
@@ -61,7 +61,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [steghide](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
 - [zsteg](): Ruby tool for steganography purposes
 
-## Web
+## Web 🕸️
 #### Tools
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): Google **CSP evaluator** with bypass possibilities
 - [Subdomain Finder](https://subdomainfinder.c99.nl/index.php): website to **find subdomains of URLs**, even hidden ones
@@ -72,28 +72,27 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [JSONP Endpoints](https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt): list of **well-known JSONP Endpoints**
 - [Web Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings): list of **Web Payloads** of various techniques
 
-## Pwn
+## Pwn 🐛
 ### Tools
 - [Syscall Reference](https://syscalls.w3challs.com/): **x86 / x64 syscalls manual** with registers value
 - [Asm/Disasm](https://defuse.ca/online-x86-assembler.htm#disassembly): online **x86 / x64 assembler and disassembler**
 - [LibC Check](https://libc.blukat.me/?q=puts%3A0x7f51bf2ee9c0&l=libc6_2.27-3ubuntu1_amd64): find all the **possible libc versions** with symbol name and entry address
 ### Resources
 
-## Forensics
+## Forensics 🕵️‍♂️
 ### Tools
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier): **online forensic analysis tool** to extract cool data from images, .. 
 - [Autopsy](https://www.sleuthkit.org/autopsy/): **file recovery tool** with data carving, ..
 - [Foremost](https://tools.kali.org/forensics/foremost): **file recovery tool** based on their magic bytes, headers, ..
-
 ### Resources
-## OSINT
+
+## OSINT 🌐
 - [Mail from LinkedIn](https://skrapp.io/tutorials/linkedin-email-finder): Chrome extension to **find email addresses from Linkedin page**
 - [Wayback Machine](https://archive.org/web/): **webpage archive at a certain time**
 - [Sherlock](https://github.com/sherlock-project/sherlock): hunt down **social media accounts by username**
 - [Email lookup](https://epieos.com/): tool to **retrieve information linked to an email address**
 
-
-## Reversing
+## Reversing ↩️
 ### Tools
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF): tool to **decompile and reverse APK** files
 ### Resources
