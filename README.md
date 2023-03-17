@@ -95,5 +95,6 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 ## Reversing ↩️
 ### Tools
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF): tool to **decompile and reverse APK** files
+- [JADX](https://github.com/skylot/jadx): tools for producing Java source code from **Android Dex and APK** files
 - NB: strings is useful also on APK files
 ### Resources
