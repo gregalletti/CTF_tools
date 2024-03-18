@@ -20,10 +20,9 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Online Converter](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html): **ASCII/Hex/Dec/Bin/b64 converter** tool online
 - [XOR Calculator](http://xor.pw/)
 - [Resource Saver](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US): Chrome extension to **download all the res of a website**
+- [Github Secrets](https://github.com/neodyme-labs/github-secrets): search for **dangling or force-pushed commits** in a Github repo
 - [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/): a realy useful and free **online zip password finder**
 - [Regex Check](https://www.debuggex.com/): check **regular expressions** online
-- [Morse Code Translator](https://morsecode.world/international/translator.html)
-- [Dual Tone Decoder](http://dialabc.com/sound/detect/): find **DTMF tones** within audio clips
 #### Resources
 - [ASCII Table](http://www.asciitable.com/)
 
@@ -44,8 +43,10 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Crunch](https://tools.kali.org/password-attacks/crunch): Linux tool to **create custom dictionaries** for attacks (hash, pd, ..)
 - [Online Hash Crack](https://www.onlinehashcrack.com/): big website to **perform hash/pwd cracking and identification** on various files
 - [Hash Identifier](https://tools.kali.org/password-attacks/hash-identifier): Linux tool to **perform hash identification**
-#### Resources
+- [Morse Code Translator](https://morsecode.world/international/translator.html)
+- [Dual Tone Decoder](http://dialabc.com/sound/detect/): find **DTMF tones** within audio clips
 - [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html): Python library for **multiple-precision arithmetic**
+#### Resources
 - [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm): a list of some **strange cryptography algorithms**
 - [Symbolic Ciphers](https://www.dcode.fr/symbols-ciphers): another list of **strange cryptography algorithms**
 
@@ -57,9 +58,10 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Steg 1](https://stylesuxx.github.io/steganography/): online **encoder/decoder of files in images**
 - [Steg 2](https://futureboy.us/stegano/decinput.html): online **encoder/decoder of files in images**, maybe more powerful
 - [Images Color picker](https://imagecolorpicker.com/): get **colors from websites/images in Hex/RGB**
+- [Stegseek](https://github.com/RickdeJager/stegseek): lightning fast **steghide cracker** that can be used to extract hidden data from files.
 #### Resources
 - [steghide](http://steghide.sourceforge.net/documentation/manpage.php): manual website of the **Steghide** tool
-- [zsteg](): Ruby tool for steganography purposes
+- [zsteg](https://github.com/zed-0xff/zsteg): Ruby tool for steganography purposes
 
 ## Web 🕸️
 #### Tools
@@ -77,6 +79,8 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Syscall Reference](https://syscalls.w3challs.com/): **x86 / x64 syscalls manual** with registers value
 - [Asm/Disasm](https://defuse.ca/online-x86-assembler.htm#disassembly): online **x86 / x64 assembler and disassembler**
 - [LibC Check](https://libc.blukat.me/?q=puts%3A0x7f51bf2ee9c0&l=libc6_2.27-3ubuntu1_amd64): find all the **possible libc versions** with symbol name and entry address
+- [BinaryNinja](https://cloud.binary.ninja/): online **binary file decompiler**
+- [DogBolt](https://dogbolt.org/): online **binary file decompiler** with different options like Ghidra and BinaryNinja
 ### Resources
 
 ## Forensics 🕵️‍♂️
